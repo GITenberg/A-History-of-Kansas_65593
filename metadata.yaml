@@ -1,11 +1,16 @@
 _repo: A-History-of-Kansas_65593
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65593-h/images/cover.jpg
 creator:
   author:
     agent_name: Arnold, Anna E. (Anna Estelle)
     gutenberg_agent_id: '53419'
     url: http://www.gutenberg.org/2009/agents/53419
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65593#A-History-of-Kansas
 gutenberg_issued: '2021-06-11'
 gutenberg_type: Text
 identifiers:
